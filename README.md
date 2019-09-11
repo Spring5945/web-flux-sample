@@ -7,7 +7,7 @@ It consists of the following types:
 | ----------------------- | --------------------------------------------- |
 | `Person`                | POJO representing a person                    |
 | `PersonRepository`      | Reactive repository for `Person`              |
-| `NickPersonRepository` | Dummy implementation of `PersonRepository`    |
+| `NickPersonRepository`  | My implementation of `PersonRepository`    |
 | `PersonHandler`         | Web handler that exposes a `PersonRepository` |
 | `Server`                | Contains a `main` method to start the server  |
 | `Client`                | Contains a `main` method to start the client  |
