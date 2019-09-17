@@ -14,17 +14,17 @@ It consists of the following types:
 
 ### Running the Reactor Netty server
  - Build using maven
- - Run the `org.springframework.samples.web.reactive.function.Server` class
+ - Run the `org.springframework.web.reactive.samples.Server` class
  
 ### Running the Tomcat server
  - Comment out the `startReactorServer()` line in `Server.java`
  - Uncomment the `startTomcatServer()` line in `Server.java`
  - Build using maven
- - Run the `org.springframework.samples.web.reactive.function.Server` class
+ - Run the `org.springframework.web.reactive.samples.Server` class
 
 ### Running the Client
  - Build using maven
- - Run the `org.springframework.samples.web.reactive.function.Client` class
+ - Run the `org.springframework.web.reactive.samples.Client` class
  
 ### Sample curl commands
 
