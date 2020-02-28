@@ -49,7 +49,7 @@
         <junit.version>4.12</junit.version>
         <jackson.version>2.9.10.1</jackson.version>
         <log4j.version>2.9.1</log4j.version>
-        <tomcat.version>8.5.4</tomcat.version>
+        <tomcat.version>8.5.51</tomcat.version>
         <guava.version>28.1-jre</guava.version>
     </properties>
 
